@@ -9,8 +9,3 @@ for (const char of sentence) {
   delay++;
 }
 
-// for (let i = 0; i < sentence.length; i++) {
-//     setTimeout(() => {
-//         process.stdout.write(sentence[i]);
-//     }, 1 * 1000);
-// }
